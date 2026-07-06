@@ -29,11 +29,11 @@ Then fully restart Discord.
 1. Download `ServerMuteScheduler.tsx` from this page
 2. Go to this folder on your PC: `C:\Users\YOURNAME\Vencord\src\userplugins`
    - If the `userplugins` folder doesn't exist, create it
-3. Inside `userplugins`, create a new folder named `servermutescheduler`
+3. Inside `userplugins`, create a new folder named `mutemod`
 4. Move the downloaded file into that new folder and rename it to `index.tsx`
 
 Your final path should look like this:
-`C:\Users\YOURNAME\Vencord\src\userplugins\servermutescheduler\index.tsx`
+`C:\Users\YOURNAME\Vencord\src\userplugins\mutemod\index.tsx`
 
 *(Vencord accepts userplugins either as a single loose file or as a folder containing an `index.tsx` — this plugin uses the folder version.)*
 
